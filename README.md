@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Naufal Aji Satrio</h1>
 <h3 align="center">A passionate web developer from Surakarta</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navf27" alt="navf27" /></a> </p>
-
 - 🌱 I’m currently learning **Next Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/navf27](https://github.com/navf27)
