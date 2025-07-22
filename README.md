@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Naufal Aji Satrio</h1>
 <h3 align="center">A passionate web developer from Surakarta</h3>
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **Go**
 
 - 👨‍💻 All of my projects are available at [https://github.com/navf27](https://github.com/navf27)
 
